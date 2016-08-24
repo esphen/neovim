@@ -911,7 +911,7 @@ default.  To start using more features you have to create a "vimrc" file.
 
   4. Press `<Tab>`{normal} and Vim will complete the command name to ":edit".
 
-  5. Now add a space and the start of an existing file name: `:edit FIL`{vim}
+  5. Now add a space and the start of an existing file name: `:edit FILE`{vim}
 
   6. Press `<Tab>`{normal}.  Vim will complete the name (if it is unique).
 
